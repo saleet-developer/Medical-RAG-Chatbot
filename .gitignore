@@ -1,0 +1,10 @@
+# Large data files
+data/
+models/
+*.bin
+*.gguf
+*.npy
+__pycache__/
+*.pyc
+venv/
+.env
